@@ -12,3 +12,9 @@
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+
+# SQLite databases
+*.sqlite3
+*.sqlite
+*.db
+*.db-journal
